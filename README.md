@@ -1,5 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
 Check the result [here](https://ahmedbouzana.github.io/ReactJS-Movies-Table/)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
